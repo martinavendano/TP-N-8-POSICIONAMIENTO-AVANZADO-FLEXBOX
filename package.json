@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "mercadoliebre-4",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinavendano/TP-N-8-POSICIONAMIENTO-AVANZADO-FLEXBOX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinavendano/TP-N-8-POSICIONAMIENTO-AVANZADO-FLEXBOX/issues"
+  },
+  "homepage": "https://github.com/martinavendano/TP-N-8-POSICIONAMIENTO-AVANZADO-FLEXBOX#readme",
+  "description": ""
+}

@@ -1,0 +1,44 @@
+footer{
+    padding: 20px 15px 10px;
+    width: 100%;
+}
+footer p{
+    font-family: var(--FuentePrincipal);
+    font-size: 12px;
+    margin-top: 0;
+ 
+} 
+footer ul{
+    margin-top: 10px;
+    text-align: center;
+    color: var(--colorGrisOscuro)
+}
+footer ul:last-child{
+    text-align: left;
+}
+
+footer #icons{
+    color: var(--colorCeleste);
+    font-size: 2em;
+    margin-bottom: 10px;
+
+}
+footer ul h4{
+    font-family: var(--FuentePrincipal);
+    margin-top: 4px;
+    margin-bottom: 1px;
+}
+ .footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.footer ul .copyright{
+   align-self:flex-end
+}
+    
+   
+
+
+
